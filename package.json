@@ -1,0 +1,41 @@
+{
+  "name": "is-webgl2-context",
+  "version": "1.0.0",
+  "description": "whether a canvas context is using WebGL 2.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "get-canvas-context": "^1.0.1",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "keywords": [
+    "is",
+    "webgl",
+    "2",
+    "2.0",
+    "gl2",
+    "webgl2",
+    "context",
+    "canvas",
+    "html",
+    "web"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/is-webgl2-context.git"
+  },
+  "homepage": "https://github.com/Jam3/is-webgl2-context",
+  "bugs": {
+    "url": "https://github.com/Jam3/is-webgl2-context/issues"
+  }
+}
